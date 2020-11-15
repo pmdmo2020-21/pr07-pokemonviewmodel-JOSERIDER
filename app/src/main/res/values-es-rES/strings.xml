@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulador de batalla de pokemon</string>
+    <string name="lbl_guide">Selecciona tu pokemon y comienza la lucha para ver quien es el ganador</string>
+    <string name="main_btn_startFight">Comenzar la lucha</string>
+    <string name="selection_pokemon_description">Imagen de un pokemon</string>
+    <string name="main_versus_description">Versus image</string>
+    <string name="lbl_winnerIs">Y el ganador es...</string>
+</resources>
